@@ -1,0 +1,91 @@
+body{
+	background-color: cyan;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+p{
+	font-family: "times new roman";
+}
+.soltaraf{
+	color: blue;
+	background-color: #9e9b6f;
+	width: 300px;
+	height: 300px;
+	border: solid;
+	border-color: black;
+	position: absolute;
+	left: 80px;
+	top: 100px;
+	padding-top: 60px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 20px;
+}
+.solust{
+	text-align: center;
+	color: blue;
+	background-color: yellow;
+	width: 165px;
+	height: 50px;
+	border: solid;
+	border-color: black;
+	position: absolute;
+	left: 150px;	
+	top: 0px;
+}
+.ortataraf{
+	color: blue;
+	background-color: #ef8035;
+	width: 300px;
+	height: 300px;
+	border: solid;
+	border-color: black;
+	position: absolute;
+	left: 500px;	
+	top: 200px;
+	padding-top: 60px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 20px;
+}
+.ortaust{
+	text-align: center;
+	color: blue;
+	background-color: gray;
+	width: 165px;
+	height: 50px;
+	border: solid;
+	border-color: black;
+	position: absolute;
+	left: 150px;
+	top: 0px;	
+}
+.sagtaraf{
+	color: blue;
+	background-color: #af70ad;
+	width: 300px;
+	height: 300px;
+	border: solid;
+	border-color: black;
+	position: absolute;
+	left: 920px;
+	top: 100px;
+	padding-top: 60px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 20px;
+}
+.sagust{
+	text-align: center;
+	color: blue;
+	background-color: yellow;
+	width: 165px;
+	height: 50px;
+	border: solid;
+	border-color: black;
+	position: absolute;
+	left: 150px;
+	top: 0px;	
+}
